@@ -1,5 +1,7 @@
 # Voxtrona: The Ultimate Music Experience 🎶
 
+![Voxtrona](img/Untitled(1)-modified.png)
+
 Welcome to **Voxtrona**, your go-to music app that redefines audio enjoyment with state-of-the-art features and unmatched sound quality. Dive into an immersive world of music, audiobooks, and more with Voxtrona.
 
 ## 🚀 Features
