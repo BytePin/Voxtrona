@@ -21,16 +21,13 @@ Welcome to **Voxtrona**, your go-to music app that redefines audio enjoyment wit
 - **Audiobooks for All Builds**  
   📚 Access a vast library of audiobooks, available across all versions of the app.
 
-- **Individual Accounts for Each Member**  
-  👤 Each user gets a personalized account to manage their own playlists and preferences.
-
 - **YouTube Releases Integration**  
   📺 Stay updated with the latest releases from YouTube directly within the app.
 
 - **Premium Codecs Support (LDAC, LHDC, AptX)**  
   🎼 Enjoy superior audio quality with support for premium codecs on compatible devices.
 
-- **Dirac and Dolby Spatial Audio for Supported Devices**  
+- **Dirac Spatial Audio for Supported Devices**  
   🔊 Enhance your listening experience with advanced spatial audio technologies on supported hardware.
 
 ## 🌟 Why Choose Voxtrona?
